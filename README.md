@@ -1,6 +1,6 @@
 Пример портфолио для одного специалиста или для команды.
 
-[Превью](https://evgiss.github.io/Design-team-portfolio/)
+[Превью](https://eugiss.github.io/Design-team-portfolio/)
 
 ## Функционал
 - плавная закрузка страницы
